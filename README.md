@@ -3,13 +3,11 @@ A sleek, responsive, and mobile-first website built to deliver a seamless experi
 
 Live Project :- https://website-mobile-friendly27.netlify.app/
 
-🚀 Key Features
+🚀 Key Features\
+
 Fully Responsive Design: Adapts beautifully to desktop, tablet, and mobile devices using fluid grids, flexible media, and CSS media queries.
-
 Touch-Friendly Interface: Optimized navigation with hamburger menus, spacious tap zones, smooth scrolling, and mobile events like touchstart and touchmove.
-
 Speed & Performance Focus: Prioritizes fast loading with image optimization, lazy loading, minimal scripts, and trimmed CSS for top-tier mobile performance.
-
 Intuitive UI/UX: Clean layouts, clear CTAs, legible typography, and consistent spacing ensure an effortless user journey.
 
 SEO & Accessibility: Mobile-first design supports Google indexing and includes accessibility best practices like adequate contrast, labeled UI elements, and keyboard-friendly focus states.
@@ -40,10 +38,7 @@ Use Chrome DevTools Device Mode or real devices to review on mobile, tablet, and
 
 🧩 Why FlexiWeb?
 Prioritizes mobile-first, delivering exceptional UX across devices.
-
 Built with performance and accessibility in mind.
-
 Lightweight, clean codebase—easy to extend, theme, or integrate.
-
 Crafted to showcase how powerful a well-designed, responsive site can be—FlexiWeb delivers polished, fast, and intuitive browsing on every device. 🚀
 
