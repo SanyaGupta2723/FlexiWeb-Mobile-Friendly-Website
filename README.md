@@ -3,7 +3,7 @@ A sleek, responsive, and mobile-first website built to deliver a seamless experi
 
 Live Project :- https://website-mobile-friendly27.netlify.app/
 
-🚀 Key Features\
+🚀 Key Features
 
 Fully Responsive Design: Adapts beautifully to desktop, tablet, and mobile devices using fluid grids, flexible media, and CSS media queries.
 Touch-Friendly Interface: Optimized navigation with hamburger menus, spacious tap zones, smooth scrolling, and mobile events like touchstart and touchmove.
